@@ -13,6 +13,7 @@ function App() {
       <h2>Section - 02</h2>
       <p>WVU ID: 800328658</p>
       <p>Hi I am Garrett Butler</p>
+      <h3>More info:</h3>
 
       <card />
 
