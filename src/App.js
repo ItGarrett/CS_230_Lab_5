@@ -1,13 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
-import navbar from "./navbar";
-import card from "./card";
+//import Navbar from "./navbar";
+import Navbar from "./Navbar";
+//import card from "./card";
 
 function App() {
   return (
     <div className="App">
 
-      <navbar />
+      <Navbar />
 
       <h1>CS 230L</h1>
       <h2>Section - 02</h2>
